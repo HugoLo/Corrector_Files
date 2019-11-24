@@ -1,4 +1,4 @@
-# Corrector_Files
+# D4C_resourses
 Corpus para corrector estadistico
 
 Archivos para corrector estadistico basado en el Teorema de Bayes
